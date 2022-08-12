@@ -1,0 +1,5 @@
+- create a method called isEvenNumber that takes a parameter of type int
+- its purpose is to determine if the argument passwd to the method is an even or not
+- return true if an even number, otherwise return false.
+- make it also record the total number of even numbers it has found and at the end
+- display the total number of even numbers found
