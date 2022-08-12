@@ -30,6 +30,9 @@ Example input/output:
 
 
 TIP: use the remainder operator to check if the number is odd
+HINT: 
+- if number % 2 == 0 its an even number
+- if number % 2 == 1 its an odd number
 
 NOTE: Both methods  needs to be defined as public static like we have been doing so far in the course.
 NOTE: Do not add a  main method to solution code.
